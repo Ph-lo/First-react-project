@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgba(255, 255, 255, 0);
+  padding-right: 5%;
+  padding-bottom: 3%;
+  position: absolute;
+  bottom: 3px;
+  right: 0px;
+  height: 55px;
+}
+
+.add-btn {
+  width: 56px;
+  font-size: 35px;
+  border-radius: 50%;
+  border: none;
+  background-color: #428be6;
+  color: white;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.295), -1px -1px 4px rgba(0, 0, 0, 0.295);
+}
+
+.add-btn:active {
+  box-shadow: none;
+}
